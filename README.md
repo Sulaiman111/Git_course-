@@ -27,16 +27,6 @@ Briefly describe your project. What is the purpose of your website? What problem
 Include instructions for setting up and running the project locally. Provide any prerequisites and installation steps.
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-website.git
 
-# Navigate to the project directory
-cd your-website
-
-# Open index.html in your browser
-# Fork the repository
-# Create a new branch
-# Make your changes
-# Submit a pull request
 
 
